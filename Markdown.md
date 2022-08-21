@@ -27,3 +27,22 @@
 <u>밑줄</u>  
 
 ------- 
+
+## 표(테이블)  
+[Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables#)  
+
+```
+| 0 |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|
+```
+| 0 |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|
+  
+
+
+-------
+
+## 링크삽입  
+```
+[주소에 대한 설명](https://github.com/Yoo-Jeong/TIL)
+```
