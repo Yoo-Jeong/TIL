@@ -44,5 +44,9 @@
 
 ## 링크삽입  
 ```
-[주소에 대한 설명](https://github.com/Yoo-Jeong/TIL)
+[TIL링크](https://github.com/Yoo-Jeong/TIL)
 ```
+[TIL링크](https://github.com/Yoo-Jeong/TIL)
+
+--------
+
