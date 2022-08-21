@@ -60,10 +60,12 @@
 ---
 
 ## 특수문자
+HTML Number끝에 **;** 붙여서 사용
+
 | symbol | HTML Number | HTML Name | Description |
 |--------|-------------|-----------|-------------|
 | +      | &#43        |           | plus sign   |
 
-HTML Number끝에 **;** 붙여서 사용
+
 
 ---
