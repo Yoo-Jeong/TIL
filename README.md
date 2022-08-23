@@ -11,7 +11,7 @@ Goooooooo😯
 ## 분류  
 #### Markdown  
 * [Markdown.md](https://github.com/Yoo-Jeong/TIL/blob/master/Markdown.md)
-  
+
 
 
 #### CPP
@@ -23,8 +23,12 @@ Goooooooo😯
 
 
 
- 
 #### 문제풀이
 * [1단계 - 입출력과 사칙연산](https://github.com/Yoo-Jeong/TIL/blob/master/Algorithm/1%EB%8B%A8%EA%B3%84-%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0.md)
+
+
+
+#### etc
+* [깃허브 프로필 꾸미기](https://github.com/Yoo-Jeong/TIL/blob/master/etc/%EA%B9%83%ED%97%88%EB%B8%8C%20%ED%94%84%EB%A1%9C%ED%95%84%20%EA%BE%B8%EB%AF%B8%EA%B8%B0.md)
 
 
