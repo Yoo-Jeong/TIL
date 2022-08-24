@@ -12,6 +12,25 @@
 - - -
 ---
 ```
+
+---
+
+## 제목 (Header)
+```
+# 제목 1
+## 제목 2
+### 제목 3
+#### 제목 4
+##### 제목 5
+###### 제목 6
+```
+# 제목 1
+## 제목 2
+### 제목 3
+#### 제목 4
+##### 제목 5
+###### 제목 6
+
 ---
   
 ## 코드블럭 ( ``` )
@@ -29,11 +48,13 @@
 *이텔릭* or _이텔릭_  
 ~~취소선~~
 <u>밑줄</u>
+`코드강조`
 ```
 **볼드(두껍게)**  
 *이텔릭*  
 ~~취소선~~  
 <u>밑줄</u>  
+`코드강조`
 
 ---
 ## 리스트(목록)
@@ -82,8 +103,14 @@
 ## 링크삽입  
 ```
 [TIL링크](https://github.com/Yoo-Jeong/TIL)
+
+TIL 링크 : https://github.com/Yoo-Jeong/TIL
+TIL 링크 : <https://github.com/Yoo-Jeong/TIL>
 ```
-[TIL링크](https://github.com/Yoo-Jeong/TIL)
+[TIL링크](https://github.com/Yoo-Jeong/TIL)  
+
+TIL 링크 : https://github.com/Yoo-Jeong/TIL  
+TIL 링크 : <https://github.com/Yoo-Jeong/TIL>  
 
 ---
 
