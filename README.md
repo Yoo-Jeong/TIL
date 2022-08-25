@@ -21,6 +21,8 @@ Goooooooo😯
 * [220823_산술 연산자.md](https://github.com/Yoo-Jeong/TIL/blob/master/C%2B%2B/220823_%EC%82%B0%EC%88%A0%20%EC%97%B0%EC%82%B0%EC%9E%90.md)
 * [220823_증감 연산자.md](https://github.com/Yoo-Jeong/TIL/blob/master/C%2B%2B/220823_%EC%A6%9D%EA%B0%90%EC%97%B0%EC%82%B0%EC%9E%90.md)
 * [220824 논리 연산자.md](https://github.com/Yoo-Jeong/TIL/blob/master/C%2B%2B/220824_%EB%85%BC%EB%A6%AC%20%EC%97%B0%EC%82%B0%EC%9E%90.md)
+* [220825_if else.md](https://github.com/Yoo-Jeong/TIL/blob/master/C%2B%2B/220825_if%20else.md)
+
 
 
 
