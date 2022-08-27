@@ -32,6 +32,8 @@ Goooooooo😯
 * [220824 논리 연산자.md](https://github.com/Yoo-Jeong/TIL/blob/master/C%2B%2B/220824_%EB%85%BC%EB%A6%AC%20%EC%97%B0%EC%82%B0%EC%9E%90.md)
 * [220825_if else.md](https://github.com/Yoo-Jeong/TIL/blob/master/C%2B%2B/220825_if%20else.md)
 * [220826_switch 구문과 삼항연산자.md](https://github.com/Yoo-Jeong/TIL/blob/master/C%2B%2B/220826_switch%20%EA%B5%AC%EB%AC%B8%EA%B3%BC%20%EC%82%BC%ED%95%AD%EC%97%B0%EC%82%B0%EC%9E%90.md)
+* [220827_비트 연산자.md](https://github.com/Yoo-Jeong/TIL/blob/master/C%2B%2B/220827_%EB%B9%84%ED%8A%B8%20%EC%97%B0%EC%82%B0%EC%9E%90.md)
+
 
 <br/>
 
