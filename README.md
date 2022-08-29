@@ -35,6 +35,7 @@ Goooooooo😯
 * [220826_switch 구문과 삼항연산자.md](https://github.com/Yoo-Jeong/TIL/blob/master/C%2B%2B/220826_switch%20%EA%B5%AC%EB%AC%B8%EA%B3%BC%20%EC%82%BC%ED%95%AD%EC%97%B0%EC%82%B0%EC%9E%90.md)
 * [220827_비트 연산자.md](https://github.com/Yoo-Jeong/TIL/blob/master/C%2B%2B/220827_%EB%B9%84%ED%8A%B8%20%EC%97%B0%EC%82%B0%EC%9E%90.md)
 * [220828_변수.md](https://github.com/Yoo-Jeong/TIL/blob/master/C%2B%2B/220828_%EB%B3%80%EC%88%98.md)
+* [220829_반복문.md](https://github.com/Yoo-Jeong/TIL/blob/master/C%2B%2B/220829_%EB%B0%98%EB%B3%B5%EB%AC%B8.md)
 
 
 <br/>
