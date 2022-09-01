@@ -38,6 +38,7 @@ Goooooooo😯
 * [220829_반복문.md](https://github.com/Yoo-Jeong/TIL/blob/master/C%2B%2B/220829_%EB%B0%98%EB%B3%B5%EB%AC%B8.md)
 * [220830_printf scanf 문자 입출력.md](https://github.com/Yoo-Jeong/TIL/blob/master/C%2B%2B/220830_printf%20scanf%20%EB%AC%B8%EC%9E%90%20%EC%9E%85%EC%B6%9C%EB%A0%A5.md)
 * [220831_재귀함수.md](https://github.com/Yoo-Jeong/TIL/blob/master/C%2B%2B/220831_%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98.md)
+* [220901_배열.md](https://github.com/Yoo-Jeong/TIL/blob/master/C%2B%2B/220901_%EB%B0%B0%EC%97%B4.md)
 
 
 <br/>
