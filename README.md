@@ -43,6 +43,7 @@ Goooooooo😯
 * [220902_구조체.md](https://github.com/Yoo-Jeong/TIL/blob/master/C%2B%2B/220902_%EA%B5%AC%EC%A1%B0%EC%B2%B4.md)
 * [220903_분할구현.md](https://github.com/Yoo-Jeong/TIL/blob/master/C%2B%2B/220903_%EB%B6%84%ED%95%A0%EA%B5%AC%ED%98%84.md)
 * [220904_정적변수&외부변수](https://github.com/Yoo-Jeong/TIL/blob/master/C%2B%2B/220904_%EC%A0%95%EC%A0%81%EB%B3%80%EC%88%98%26%EC%99%B8%EB%B6%80%EB%B3%80%EC%88%98.md)
+* [220905_운영체제](https://github.com/Yoo-Jeong/TIL/blob/master/C%2B%2B/220905_%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C.md)
 
 <br/>
 

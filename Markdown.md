@@ -62,6 +62,37 @@ int a = 0;
 `코드강조`
 
 ---
+
+## 글자 색상
+```
+<span style="color:red">빨강</span>  
+<span style="color:blue">파랑</span>  
+<span style="color:green">초록</span>  
+<span style="color:yellow">노랑</span>  
+<span style="color:gray">회색</span>
+```
+<span style="color:red">빨강</span>  
+<span style="color:blue">파랑</span>  
+<span style="color:green">초록</span>  
+<span style="color:yellow">노랑</span>  
+<span style="color:gray">회색</span>
+
+---
+
+## 형광펜
+```
+<span style='background-color:yellow'>노란형광펜</sapn>  
+<span style='background-color:orange'>주황형광펜</sapn>  
+<span style='background-color:purple'>보라형광펜</sapn>  
+<span style='background-color:gray'>회색형광펜</sapn>
+```
+<span style='background-color:yellow'>노란형광펜</sapn>  
+<span style='background-color:orange'>주황형광펜</sapn>  
+<span style='background-color:purple'>보라형광펜</sapn>  
+<span style='background-color:gray'>회색형광펜</sapn>
+
+---
+
 ## 리스트(목록)
 ```
 * 리스트 1
