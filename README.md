@@ -45,6 +45,7 @@ Goooooooo😯
 * [220904_정적변수&외부변수.md](https://github.com/Yoo-Jeong/TIL/blob/master/C%2B%2B/220904_%EC%A0%95%EC%A0%81%EB%B3%80%EC%88%98%26%EC%99%B8%EB%B6%80%EB%B3%80%EC%88%98.md)
 * [220905_운영체제.md](https://github.com/Yoo-Jeong/TIL/blob/master/C%2B%2B/220905_%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C.md)
 * [220906_포인터.md](https://github.com/Yoo-Jeong/TIL/blob/master/C%2B%2B/220906_%ED%8F%AC%EC%9D%B8%ED%84%B0.md)
+* [220907_포인터 변수의 크기.md](https://github.com/Yoo-Jeong/TIL/blob/master/C%2B%2B/220907_%ED%8F%AC%EC%9D%B8%ED%84%B0%20%EB%B0%B0%EC%97%B4.md)
 
 <br/>
 
