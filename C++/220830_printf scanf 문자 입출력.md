@@ -24,11 +24,12 @@ scanf("%d", &num); // num에 숫자1개를 입력받는다.
 ```
 <br/>
 
-### `scanf()` 여러개
+### `scanf()` 여러개 입력받기
 ```cpp
 scanf("%d%d%d", &a, &b, &c);
 ```
 
+<br/>
 <br/>
 
 ```cpp
