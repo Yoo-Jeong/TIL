@@ -73,6 +73,8 @@ Goooooooo😯
 * [220917_웹프 2주차 메모.md](https://github.com/Yoo-Jeong/TIL/blob/master/%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/220917_%EC%9B%B9%ED%94%84%202%EC%A3%BC%EC%B0%A8%20%EB%A9%94%EB%AA%A8.md)
 * [220923_웹프 3주차 메모.md](https://github.com/Yoo-Jeong/TIL/blob/master/%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/220923_%EC%9B%B9%ED%94%84%203%EC%A3%BC%EC%B0%A8%20%EB%A9%94%EB%AA%A8.md)
 * [220930_웹프 4주차 메모.md](https://github.com/Yoo-Jeong/TIL/blob/master/%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/220930_%EC%9B%B9%ED%94%84%204%EC%A3%BC%EC%B0%A8%20%EB%A9%94%EB%AA%A8.md)
+* [221001_웹프 구구단출력 과제.md](https://github.com/Yoo-Jeong/TIL/blob/master/%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/221001_%EC%9B%B9%ED%94%84%20%EA%B5%AC%EA%B5%AC%EB%8B%A8%EC%B6%9C%EB%A0%A5%20%EA%B3%BC%EC%A0%9C.md)
+* [221007_웹프 5주차 메모.md](https://github.com/Yoo-Jeong/TIL/blob/master/%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/221007_%EC%9B%B9%ED%94%845%EC%A3%BC%EC%B0%A8%20%EB%A9%94%EB%AA%A8.md)
 
 
 <br/>
