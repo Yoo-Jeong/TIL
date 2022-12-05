@@ -68,6 +68,7 @@ Goooooooo😯
 * [7단계-기본 수학1.md](https://github.com/Yoo-Jeong/TIL/blob/master/Algorithm/7%EB%8B%A8%EA%B3%84-%EA%B8%B0%EB%B3%B8%20%EC%88%98%ED%95%991.md)
 * [8단계-기본 수학2.md](https://github.com/Yoo-Jeong/TIL/blob/master/Algorithm/8%EB%8B%A8%EA%B3%84-%EA%B8%B0%EB%B3%B8%20%EC%88%98%ED%95%992.md)
 * [9단계 - 2차원 배열.md](https://github.com/Yoo-Jeong/TIL/blob/master/Algorithm/9%EB%8B%A8%EA%B3%84-2%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4.md)
+* [10단계 - 정렬.md](https://github.com/Yoo-Jeong/TIL/blob/master/Algorithm/10%EB%8B%A8%EA%B3%84-%EC%A0%95%EB%A0%AC.md)
 * [11단계 - 재귀.md](https://github.com/Yoo-Jeong/TIL/blob/master/Algorithm/9%EB%8B%A8%EA%B3%84-%EC%9E%AC%EA%B7%80.md)
 
 <br/>
