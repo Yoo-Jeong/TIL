@@ -18,8 +18,8 @@ Goooooooo😯
 
 ## 분류  
 #### 프로젝트
-* [**maon** - 3D 환경 기반의 비대면 상담 플랫폼]()
-* [**Etc.** : Eco Act challenge - 환경보호를 주제로 한 챌린지 앱]()
+* [**maon** - 3D 환경 기반의 비대면 상담 플랫폼](https://github.com/Yoo-Jeong/maon)
+* [**Etc.** : Eco Act challenge - 환경보호를 주제로 한 챌린지 앱](https://github.com/Yoo-Jeong/Etc.-Guru2-IOS)
 
 <br/>
 
